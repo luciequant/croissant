@@ -1,4 +1,19 @@
 body {
-  text-align: center;
   background-color: #f6d19d;
+}
+h1,
+p,
+footer {
+  text-align: center;
+}
+.croissants-photo {
+  max-width: 100%;
+  border-radius: 16px;
+  border: 5px solid white;
+  display: block;
+  margin: 30px auto;
+}
+footer a {
+  margin: 0 10px;
+  color: #8d1d04;
 }
